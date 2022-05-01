@@ -37,4 +37,5 @@ As a user of the application,you will be able to :
  ****
  [Go Back to the top](#moringalandingpage)
 ### Live Link
-- Click this link to view the live application 
+- Click this link to view the live application https://infosecmentor.github.io/Moringalandingpage/
+
