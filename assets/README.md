@@ -13,3 +13,6 @@ By Phares Muhambi
   - [Technology  Used](#technology-Used)
  - [Licence](#licence)
  - [Authors Info](#Authors-Info)
+
+  <p>This project is a web application for Delani studio that shows details about the moringa school services it offers, has information about the moringa school, a portfolio section and a form that enables users to send their messages and concern to moringa school studio</p>
+[Go Back to the top](#description)
