@@ -29,3 +29,12 @@ As a user of the application,you will be able to :
 | Enter your message or comment   |  I would like to inquire about something     |     |
 | Press Submit|     |Pop up "Phares Muhambi , we have received your message. Thank you for reaching out to us.|
 [Go Back to the top](#moringalandingpage)
+ ### Installation Process
+ ****
+* Clone to thir repo : git clone https://github.com/infosecmentor/Moringalandingpage
+* Unzip the downloaded files in a folder of choice.
+* Open the index file from the zipped file with any browser.
+ ****
+ [Go Back to the top](#moringalandingpage)
+### Live Link
+- Click this link to view the live application 
