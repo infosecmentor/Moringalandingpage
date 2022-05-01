@@ -6,3 +6,6 @@ By Phares Muhambi
 Description
 Features
 Behavior druven development
+ - [Requirements](#requirements)
+ - [Installation Process](#installation-Process)
+ - [Live Link](#Live-Link)
