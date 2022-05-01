@@ -24,8 +24,8 @@ As a user of the application,you will be able to :
 ## Behaviour Driven Development|
 | Behaviour      | Input        | Output       |
 | :------------- | :----------: | -----------: |
-|  Enter your name  |   Albert Byrone |     |
-| Enter your Email Address  | albertbyrone1677@gmail.com |   |
+|   |   Phares Muhambi |     |
+| Enter your Email Address  | muhambiphares@gmail.com |   |
 | Enter your message or comment   |  I would like to inquire about something     |     |
-| Press Submit|     |Pop up "Albert Byrone , we have received your message. Thank you for reaching out to us.|
-[Go Back to the top](#delani-studio)
+| Press Submit|     |Pop up "Phares Muhambi , we have received your message. Thank you for reaching out to us.|
+[Go Back to the top](#moringalandingpage)
