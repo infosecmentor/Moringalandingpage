@@ -1,0 +1,493 @@
+.container{
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    margin-left: 50px;
+    margin-top: 50px;
+    
+ }
+ 
+ img{
+    width: 500px;
+    height: 500px;
+ }
+ .image1{
+   flex-basis: 30%;
+   padding-left: 100px;
+   padding-top: 1px;
+ }
+ 
+ .moringa{
+   font-size: 15px;
+   padding-left: 0px;
+   font-family: 'Nunito';
+  
+ }
+ .p1{
+    font-size: 35px;
+    color: #EC4067;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    padding-top: 65px;
+ }
+ .p2{
+    font-size:20px ;
+ }
+ body{
+    font-family: 'Nunito';
+ }
+ #button1{
+    margin-top: 70px;
+    padding: auto;
+    font-size: 26px;
+    margin-right: 50px;
+    background-color: #ec4067;
+    color: whitesmoke;
+    border: solid 1px;
+    border-radius: 5px;
+    box-shadow: #EC4067;
+    
+    
+    
+ }
+ #button2{
+    margin-top: 70px;
+    padding: auto;
+    font-size: 24px;
+    margin-right: 20px;
+    color: #EC4067;
+    border: 0.2px solid #f3335f;
+    font-family: 'Nunito';
+    background-color: white;
+    box-shadow: #EC4067;
+    
+    
+ }
+ .heading5{
+    font-size: 20px;
+    display: block;
+    color: black;
+ }
+ .p3{
+    font-size: 40px;
+    margin-left: 45px;
+    display: inline;
+ 
+ }
+ .p33{
+    background-color: lightgray;
+    display: inline;
+    font-size: 40px;
+    margin-left: 45px;
+ }
+ .p4{
+    display: inline;
+    font-size: large;
+    padding-left: 10px;
+ }
+    
+ .image2{
+    flex-basis: 20%;
+    padding-right: 50px;
+    width: 500px;
+    height: 350px;
+ }
+ .container2{
+    flex-basis: 30%;
+   padding-left: 50px;
+   padding-top: 0px;
+   display: flex;
+    align-items: left;
+    justify-content: left;
+ }
+ .heading4{
+    font-size: 35px;
+    margin-bottom: 10px;
+ }
+ .p5{
+    font-size: 20px;
+ }
+ #button3{
+    margin-top: 40px;
+    font-size: 26px;
+    margin-right: 50px;
+    background-color: #ec4067;
+    color: whitesmoke;
+    border: solid 1px;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: #EC4067;
+ }
+ .container3{
+    margin-top: 100px;
+    flex-basis: 30%;
+   padding-left: 50px;
+   padding-right: 50px;
+   padding-top: 0px;
+   display: flex;
+    align-items: left;
+    justify-content: left;
+ 
+ }
+ .image3{
+    margin-top: 0px;
+    flex-basis: 20%;
+    padding-right: 50px;
+    width: 650px;
+    height: 400px;
+    padding-left: 100px;
+ }
+ .heading6{
+    font-size: 35px;
+    margin-bottom: 10px;
+ }
+ .p6{
+    font-size: 20px;
+ }
+ #button4{
+    margin-top: 40px;
+    font-size: 20px;
+    margin-right: 50px;
+    background-color: #ec4067;
+    color: whitesmoke;
+    border: solid 1px;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: #EC4067;
+ }
+ .container4{
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    margin-top: 100px;
+ }
+ .image4{
+    width: 600px;
+    height: 400px;
+    padding-left: 30px;
+    padding-right: 50px;
+ }
+ .heading7{
+    font-size: 35px;
+    margin-bottom: 10px;
+ }
+ .p7{
+    font-size: 20px;
+ }
+ #button5{
+    margin-top: 40px;
+    font-size: 20px;
+    margin-right: 50px;
+    background-color: #ec4067;
+    color: whitesmoke;
+    border: solid 1px;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: #EC4067;
+ }
+ .topnav{
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    color: black;
+    flex-basis: 10%;
+    
+ }
+ .topnav2{
+    padding-left: 600px;
+    color: black;
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    
+ }
+ #courses{
+    padding: 10px;
+    font-size: 22px;
+ }
+ #ourprojects{
+    padding:10px ;
+    font-size: 22px;
+ }
+ #stories{
+    padding: 10px;
+    font-size: 22px;
+ }
+ 
+ h3{
+    font-size: 30px;
+ }
+ .enroll{
+    font-size: 27px;
+    margin-top: 7px;
+    height: fit-content;
+    width: fit-content;
+    margin-left: 15px;
+    background-color: #EC4067;
+    color: white;
+    border: solid 0.5px;
+    border-radius: 10px;
+    box-shadow: #EC4067;
+    
+ }
+ .h33{
+    color: #EC4067;
+    display: inline;
+    font-size: 36px;
+ }
+ .topnav a:hover {
+    background-color: rgb(255, 255, 255);
+    color: black;
+ }
+ .row{
+    display: flex;
+   
+ }
+ .column{
+    
+    flex: 25%;
+ }
+ #image5{
+    width: 250px;
+    height: 220px;
+    padding-left: 50px;
+    
+    
+ }
+ #image6{
+    width: 250px;
+    height: 220px;
+    padding-left: 30px;
+    
+ }
+ #image7{
+    width: 250px;
+    height: 220px;
+    padding-left: 30px;
+ }
+ #image8{
+    width: 250px;
+    height: 220px;
+    padding-left: 30px;
+    
+ }
+ .rose{
+    padding-left: 50px;
+ }
+ .albert{
+    padding-left: 30px;
+ }
+ .katana{
+    padding-left: 30px;
+ }
+ .christine{
+    padding-left: 30px;
+ }
+ #mentors{
+    color: #EC4067;
+ }
+ #button6{
+    color:white;
+    background-color: #EC4067;
+    box-shadow: #EC4067;
+    font-size: 20px;
+    border: solid 1px;
+    border-radius: 5px;
+    font-family: 'Nunito';
+    margin-top: 5px;
+ }
+ .p8{
+    font-size: 25px;
+ }
+ .p9{
+    font-size: 40px;
+    color: #EC4067;
+ }
+ .p10{
+    font-size: 20px;
+ }
+ #image9{
+    padding-left: 30px;
+    width: 800px;
+    height: 450px;
+ }
+ #button7{
+    font-size: 30px;
+    color: white;
+    border: solid 1px;
+    background-color: #EC4067;
+    box-shadow: #EC4067;
+    border-radius: 5px;
+    margin-top: 20px;
+ }
+ .p11{
+    font-size: 35px;
+    color: #EC4067;
+    padding-left: 30px;
+    margin-top: 100px;
+ }
+ .p12{
+    font-size: 23px;
+    margin-bottom: 100px;
+    padding-left: 30px;
+ }
+ #button8{
+    font-size: 25px;
+    background-color: #EC4067;
+    color: white;
+    border: solid 1px;
+    border-radius: 5px;
+ }
+  a:hover {
+    background-color: rgb(255, 255, 255);
+    color: black;}
+ 
+    .textcontainer1{
+       position: relative;
+    }
+    .textblock1{
+       position: absolute;
+   bottom: 10px;
+   left: 20px;
+   color: white;
+   padding-left: 20px;
+   padding-left: 20px;
+   margin-left: 20px;
+   font-size: 25px;
+    }
+    .textcontainer2{
+       position: relative;
+    }
+    .textblock2{
+       position: absolute;
+   bottom: 10px;
+   left: 20px;
+   color: white;
+   padding-left: 20px;
+   padding-left: 20px;
+   margin-left: 20px;
+   font-size: 25px;}
+ 
+   .textcontainer3{
+    position: relative;
+ }
+ .textblock3{
+    position: absolute;
+ bottom: 10px;
+ left: 20px;
+ color: white;
+ padding-left: 20px;
+ padding-left: 20px;
+ margin-left: 20px;
+ font-size: 25px;}
+ 
+ .textcontainer4{
+    position: relative;
+ }
+ .textblock4{
+    position: absolute;
+ bottom: 10px;
+ left: 20px;
+ color: white;
+ padding-left: 20px;
+ padding-left: 20px;
+ margin-left: 20px;
+ font-size: 25px;
+ 
+ }
+ .textcontainer5{
+    position: relative;
+ }
+ .textblock5{
+    position: absolute;
+ bottom: 10px;
+ left: 20px;
+ color: white;
+ padding-left: 20px;
+ padding-left: 20px;
+ margin-left: 20px;
+ font-size: 25px;
+ padding-bottom: 10px;
+ 
+ }
+ .textblock6{
+    position: absolute;
+ top: 10px;
+ right: 20px;
+ color: white;
+ padding-right: 50px;
+ margin-right: 20px;
+ font-size: 25px;
+ padding-top: 10px;
+ 
+ }
+ .textcontainer6{
+    position: relative;
+ }
+ .textblock7{
+    position: absolute;
+ bottom: 10px;
+ right: 20px;
+ color: white;
+ padding-right: 20px;
+ margin-right: 20px;
+ font-size: 25px;
+ padding-bottom: 10px;
+ 
+ }
+ .textblock8{
+    position: absolute;
+ top: 10px;
+ left: 20px;
+ color: white;
+ padding-left: 50px;
+ margin-left: 50px;
+ font-size: 25px;
+ padding-top: 10px;
+ 
+ }
+ .textcontainer7{
+    position: relative;
+ }
+ .textblock9{
+    position: absolute;
+ bottom: 10px;
+ left: 20px;
+ color: white;
+ padding-left: 0.1px;
+ margin-left: 0.1px;
+ font-size: 25px;
+ padding-bottom: 10px;
+ 
+ }
+ .textblock10{
+    position: absolute;
+ top: 10px;
+ right: 20px;
+ color: white;
+ padding-right: 50px;
+ margin-right: 20px;
+ font-size: 25px;
+ padding-top: 10px;
+ 
+ }
+ 
+ .orientation{
+    padding-left: 50px;
+    margin-right: 5px;
+ }
+ .enroll:hover{
+    background-color:lightslategray;
+ }
+ #button2:hover{
+    background-color:#EC4067;
+    color: white;
+ }
+ #button1:hover{
+    background-color: white;
+    color: #EC4067;
+ }
+ .arbeloa{
+     text-align: center;
+     background-color: grey;
+ }
